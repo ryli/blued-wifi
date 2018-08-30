@@ -1,0 +1,23 @@
+{
+  "name": "blued-wifi",
+  "version": "1.0.0",
+  "description": "auto login blued wi-fi",
+  "bin": "index.js",
+  "scripts": {
+    "login": "node './index'"
+  },
+  "author": "ELEVEN <lov.2014@gmail.com>",
+  "repository": {
+    "url": "https://github.com/ryli/blued-wifi",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryli/blued-wifi/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cli-spinner": "^0.2.8",
+    "opn": "^5.3.0",
+    "puppeteer": "^1.7.0"
+  }
+}
