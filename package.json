@@ -1,12 +1,12 @@
 {
   "name": "blued-wifi",
-  "version": "1.0.2",
-  "description": "auto login blued wi-fi",
+  "version": "1.0.3",
+  "description": "auto login blued wifi",
   "bin": "index.js",
   "scripts": {
     "login": "node './index'"
   },
-  "author": "ELEVEN <lov.2014@gmail.com>",
+  "author": "yaf <lov.2014@gmail.com>",
   "repository": {
     "url": "https://github.com/ryli/blued-wifi",
     "type": "git"
