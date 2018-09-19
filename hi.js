@@ -1,3 +1,5 @@
+// via: Egoist
+
 const words = [
   'osu!',
   'gahaha!',
