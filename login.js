@@ -20,7 +20,7 @@ function loginFailed(err = '') {
 
 async function login(username, pwd) {
   const opts = {}
-  // opts.headless = false
+  opts.headless = false
   const browser = await puppeteer.launch(opts)
 
   const page = await browser.newPage()
