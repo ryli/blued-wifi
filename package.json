@@ -1,6 +1,6 @@
 {
   "name": "blued-wifi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "auto login blued wifi",
   "bin": "index.js",
   "scripts": {
