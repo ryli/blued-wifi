@@ -2,8 +2,8 @@ const puppeteer = require('puppeteer')
 const spinner = require('./spinner')
 const hi = require('./hi')
 
-// const url = 'http://10.10.10.1/index.htm'
-const url = 'http://10.10.10.1/ac_portal/default/pc.html?tabs=pwd'
+// const url = 'http://10.0.16.2/index.htm'
+const url = 'http://10.0.16.2/ac_portal/default/pc.html?tabs=pwd'
 const testUrl = 'https://www.baidu.com/'
 
 const nameId = '#password_name'

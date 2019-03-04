@@ -4,7 +4,7 @@ const exec = require('child_process').exec
 const spinner = require('./spinner')
 const login = require('./login')
 const argv = process.argv
-const pingURL = '10.10.10.1'
+const pingURL = '10.0.16.1'
 
 if (argv.length < 3) {
   console.log('Missing username.')
